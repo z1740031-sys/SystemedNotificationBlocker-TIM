@@ -43,8 +43,8 @@ jobs:
         run: |
           set -e
           yes | sdkmanager --licenses > /dev/null || true
-          # compileSdk 37 (Android 17) 由 Google 仓库提供
-          sdkmanager "platform-tools" "platforms;android-37" "build-tools;37.0.0"
+          # 注意：Android 17 的平台包带次版本号（android-37.0），不存在 android-37
+          sdkmanager "platform-tools" "platforms;android-37.0" "build-tools;37.0.0" "build-tools;36.0.0"
 
       - name: Show environment
         run: |
