@@ -7,7 +7,9 @@
 
 ### 安装包
 
-- **`屏蔽通知-v1.5.1.apk`** — arm64-v8a，minSdk 26 / targetSdk 37，versionCode 7
+- **`SystemedNotificationBlocker-TIM-v1.5.1.apk`** — arm64-v8a，minSdk 26 / targetSdk 37，versionCode 7，大小 2,331,646 字节
+- SHA-256：`59862b30d8bc8dcc2c7b9b7bdf357f105fe94195257996b6e1a9355d2f250983`
+- 签名：`ANDROIDK`（APK Signature Scheme v2 + v3）
 
 ### 与上游的差异
 
