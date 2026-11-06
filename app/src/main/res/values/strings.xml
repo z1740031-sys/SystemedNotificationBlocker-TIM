@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">屏蔽通知</string>
+    <string name="grant_root_first">Please grant the root permission first: %s</string>
+    <string name="confirm_reboot">Do you want to reboot now?</string>
+    <string name="module_activated">module activated</string>
+    <string name="module_not_activated">module is not activated</string>
+    <string name="blacklist_mode">blacklist mode</string>
+    <string name="blacklist">blacklist</string>
+    <string name="whitelist">whitelist</string>
+    <string name="group">group names / keywords</string>
+    <string name="reboot_OS">reboot OS</string>
+</resources>
