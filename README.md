@@ -1,7 +1,20 @@
 # 屏蔽通知（TIM 适配版）
 
-> **本仓库为个人设备适配的私有分支**，基于 [xjyzs/SystemedNotificationBlocker](https://github.com/xjyzs/SystemedNotificationBlocker)（v1.5.1，版本号 `7`）改造。
-> 上游作者：**xjyzs**。原始项目未附带开源许可证，故本分支同样**不声明许可证**，全部权利归属原作者。
+---
+
+## ⚠️ 侵权声明
+
+**本仓库为个人自用、私自开发的私有分支，未经原作者任何授权，仅供本人设备使用。**
+
+本项目的全部代码基于 **[xjyzs/SystemedNotificationBlocker](https://github.com/xjyzs/SystemedNotificationBlocker)**（v1.5.1）修改而来。
+原始设计与实现的**全部著作权归原作者 `xjyzs` 所有**。本项目**不声明任何开源许可证**。
+
+**严禁分发、转载、传播或用于任何商业用途。**
+
+> **如有侵权，请通过 [Issue](https://github.com/z1740031-sys/SystemedNotificationBlocker-TIM/issues)
+> 或 GitHub 私信联系我，我会立即删除本仓库，无需任何说明。**
+
+---
 
 ## 与上游的差异
 
