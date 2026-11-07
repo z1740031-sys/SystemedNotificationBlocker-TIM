@@ -2,17 +2,17 @@
 
 ---
 
-## ⚠️ 侵权声明
+## ⚠️ 声明
 
-**本仓库为个人自用、私自开发的私有分支，未经原作者任何授权，仅供本人设备使用。**
+**本仓库是我个人为自己的 TIM 设备做的最小适配分支，仅供自用，不是官方项目，也不代表原作者立场。**
 
 本项目的全部代码基于 **[xjyzs/SystemedNotificationBlocker](https://github.com/xjyzs/SystemedNotificationBlocker)**（v1.5.1）修改而来。
-原始设计与实现的**全部著作权归原作者 `xjyzs` 所有**。本项目**不声明任何开源许可证**。
+**原始设计与实现的全部著作权归原作者 `xjyzs` 所有。** 本项目未声称任何开源许可证。
 
-**严禁分发、转载、传播或用于任何商业用途。**
+本项目**不提供任何担保**，**请勿用于商业用途**，也不建议日常使用（TIM 与 QQ 的行为差异可能导致通知屏蔽不完整）。
 
-> **如有侵权，请通过 [Issue](https://github.com/z1740031-sys/SystemedNotificationBlocker-TIM/issues)
-> 或 GitHub 私信联系我，我会立即删除本仓库，无需任何说明。**
+> **原作者 `xjyzs` 如有任何异议，可随时通过 [Issue](https://github.com/z1740031-sys/SystemedNotificationBlocker-TIM/issues)
+> 或 GitHub 私信联系我，我会立即删除本仓库、无需任何说明。**
 
 ---
 
